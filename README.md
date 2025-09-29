@@ -23,7 +23,9 @@ Reversing_PE
 │  │  └─note2.md
 │  ├─pefile
 │  │  ├─pe1.exe
-│  │  └─pe2.exe
+│  │  ├─pe1_db.dd32
+│  │  ├─pe2.exe
+│  │  └─pe2_db.dd64
 │  └─peview
 │
 ├─{nickname2}
